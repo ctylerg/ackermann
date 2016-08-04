@@ -5,7 +5,6 @@ public class MaxElement{
     int maxNum;
     int arrayNum;
 
-
     Scanner keyboard = new Scanner(System.in);
     System.out.println("How many numbers would you like to enter into an array?");
     arrayNum = keyboard.nextInt();
